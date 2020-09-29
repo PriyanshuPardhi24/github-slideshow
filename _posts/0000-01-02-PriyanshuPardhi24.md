@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our my slide!"
 ---
-Your text
+"best day of my life"
 Use the left arrow to go back!
